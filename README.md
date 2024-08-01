@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+This is a Flutter application that displays the current weather and a 5-day weather forecast for a selected city.
 
 ## Getting Started
 
@@ -14,3 +14,20 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```sh
+   https://github.com/jaimonvarghese/weather-app.git
+
+2. Navigate to the project directory:
+    cd weather_app
+
+3. Get the dependencies:
+    flutter pub get
+
+4. Run the app:
+    flutter run
+
+
